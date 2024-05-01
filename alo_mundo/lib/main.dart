@@ -36,7 +36,7 @@ class TutorialHome extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-          'Olá, mundo!',
+          "Olá, mundo!",
           textDirection: TextDirection.ltr,
           style: TextStyle(fontSize: 30.0),
         ),

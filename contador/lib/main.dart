@@ -8,6 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Livro sobre Flutter',
       home: MyHomePage(),
     );
@@ -35,8 +36,8 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Nosso aplicativo'),
-        backgroundColor: Colors.brown,
+        title: const Text('Nosso aplicativo',),
+        backgroundColor: Colors.deepPurpleAccent,
       ),
       body: Center(
         child: Column(
