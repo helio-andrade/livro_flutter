@@ -1,4 +1,4 @@
-package com.example.flutterbook_qr_code
+package com.example.conversor_moeda
 
 import io.flutter.embedding.android.FlutterActivity
 

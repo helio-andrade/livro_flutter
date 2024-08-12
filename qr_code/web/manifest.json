@@ -1,6 +1,6 @@
 {
-    "name": "flutterbook_qr_code",
-    "short_name": "flutterbook_qr_code",
+    "name": "qr_code",
+    "short_name": "qr_code",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
